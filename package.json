@@ -1,0 +1,9 @@
+{
+  "name": "throttle-input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.js",
+  "repository": "git@github.com:a9/throttle-input.git",
+  "author": "kuqoi <kuqoi@qq.com>",
+  "license": "MIT"
+}
